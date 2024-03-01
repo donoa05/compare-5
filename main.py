@@ -17,6 +17,7 @@ class Grid:
         self.grid = [[0] * self.cols for _ in range(self.rows)]
 
 class Node:
+  #placeholder
     def __init__(self, row, col):
         self.row = row
         self.col = col
